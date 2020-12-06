@@ -31,9 +31,9 @@ as principais vítimas desta violência e incentivá-las a denunciar seus agress
 - Esperamos conquistar este público para que consigamos impactar a sociedade de
 alguma forma.
 
----
-### 🛠 Tecnologias:
 
+### 🛠 Tecnologias:
+---
 - Java
 - Xampp
 - My SQL
