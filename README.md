@@ -11,16 +11,18 @@ conversar e também faremos vendas de produtos, nos quais parte do lucro será
 destinado a instituições que acolhem mulheres que conseguiram se libertar de suas
 situações de perigo constantes. 
 
----
+
 ### Motivação:
+---
 - Atualmente, em plena pandemia, os casos de violência doméstica aumentaram
 cerca de 44,9% apenas em São Paulo.
 - Segundo o art. 5º da Lei Maria da Penha, violência doméstica e familiar contra a mulher
 qualquer ação ou omissão baseada no gênero que lhe cause morte, lesão, sofrimento físico, 
 sexual ou psicológico e dano moral ou patrimonial.
 
----
+
 ### Objetivos:
+---
 - Levar dados estatísticos, mostrar para a sociedade o que é exatamente violência
 doméstica, informar sobre leis relacionadas ao assunto e ajudar diversas
 instituições.
@@ -30,7 +32,7 @@ as principais vítimas desta violência e incentivá-las a denunciar seus agress
 alguma forma.
 
 ---
-### 🛠 Tecnologias
+### 🛠 Tecnologias:
 
 - Java
 - Xampp
